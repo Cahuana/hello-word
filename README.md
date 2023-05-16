@@ -1,2 +1,3 @@
 # hello-word
-firt project
+primer proyecto 
+
